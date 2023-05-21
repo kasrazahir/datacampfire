@@ -45,10 +45,12 @@ data science and machine learning. This field has been a passion of mine for yea
 
 Feel free to explore the **topics listed on the left-hand side** of the page. Each section is dedicated to a specific aspect of the data science craft.
 
-I hope that this website becomes a valuable resource on your  data science journey. If you have any 
+I hope that this website becomes a valuable resource on your data science journey. If you have any 
 questions or feedback, please don't hesitate to reach out. 
 
-Wishing you a fulfilling and rewarding learning adventure!
+Happy learning!
+
+Kasra Zahir
 """
 
 # Retrieve or initialize the button states from the session state
